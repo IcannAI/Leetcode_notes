@@ -84,5 +84,5 @@
 
 ## Reference
 
-- [Grind 75](https://www.techinterviewhandbook.org/grind75/) -
-- [NeetCode 150](https://neetcode.io/practice/practice/coreSkills) - 
+- [Grind 75](https://www.techinterviewhandbook.org/grind75/) 
+- [NeetCode 150](https://neetcode.io/practice/practice/coreSkills)  
