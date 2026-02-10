@@ -45,7 +45,40 @@
 |W4| 6 |Validate Binary Search Tree| Medium| 20 mins|
 |W4 |7 |Number of Islands |Medium |25 mins|
 |W4 |8 |Rotting Oranges | Medium |30 mins|
-
+|W5 |1 |Search in Rotated Sorted Array |Medium| 30 mins|
+|W5 |2 |Combination Sum |Medium| 30 mins|
+|W5| 3 | Permutations |Medium |30 mins|
+|W5 |4 |Merge Intervals |Medium |30 mins|
+|W5| 5| Lowest Common Ancestor of a Binary Tree |Medium |25 mins|
+|W5 |6 |Time Based Key-Value Store |Medium |35 mins|
+|W5| 7| Accounts Merge |Medium| 30 mins|
+|W5 |8 |Sort Colors |Medium |25 mins|
+|W6 |1| Word Break |Medium |30 mins|
+|W6 |2 |Partition Equal Subset Sum |Medium |30 mins|
+|W6| 3| String to Integer (atoi)| Medium |25 mins|
+|W6 |4 |Spiral Matrix |Medium |25 mins|
+|W6| 5 |Subsets |Medium |30 mins|
+|W6| 6| Binary Tree Right Side View |Medium |20 mins|
+|W6 |7 |Longest Palindromic Substring |Medium |25 mins|
+|W6| 8 |Unique Paths |Medium| 20 mins|
+|W6| 9| Construct Binary Tree from Preorder and Inorder Traversal | Medium |25 mins|
+|W7| 1| Container With Most Water |Medium| 35 mins|
+|W7| 2| Letter Combinations of a Phone Number |Medium |30 mins|
+|W7| 3 |Word Search |Medium |30 mins|
+|W7| 4 |Find All Anagrams in a String |Medium |30 mins|
+|W7| 5 |Minimum Height Trees |Medium |30 mins|
+|W7| 6 |Task Scheduler |Medium| 35 mins|
+|W7| 7 |LRU Cache |Medium |30 mins|
+|W8 |1 |Kth Smallest Element in a BST| Medium |25 mins|
+|W8 |2 |Minimum Window Substring |Hard |30 mins|
+|W8 |3 |Serialize and Deserialize Binary Tree |Hard |40 mins|
+|W8 |4 |Trapping Rain Water |Hard |35 mins|
+|W8 |5 |Find Median from Data Stream |Hard |30 mins|
+|W8 |6 |Word Ladder |Hard |45 mins|
+|W8 |7 |Basic Calculator |Hard |40 mins|
+|W8 |8 |Maximum Profit in Job Scheduling |Hard |45 mins|
+| W8 |9| Merge k Sorted Lists |Hard |30 mins|
+|W8 |10 |Largest Rectangle in Histogram |Hard |35 mins|
 
 
 
