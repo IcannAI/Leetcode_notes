@@ -29,8 +29,22 @@
 | W2 | 10 | Maximum Depth of Binary Tree | Easy | 15 mins | 
 | W2 | 11 | Contains Duplicate | Easy | 15 mins | 
 | W2 | 12 | Maximum Subarray |  Medium | 20 mins |
-
-
+| W3 | 1 | Insert Interval | Medium | 25 mins |
+| W3 | 2 | Matrix | Medium | 30 mins | 
+| W3 | 3 | K Closest Points to Origin |  Medium |  30 mins | 
+| W3 | 4 |  Longest Substring Without Repeating Characters | Medium | 30 mins |
+| W3 | 5 | Sum |  Medium | 30 mins |
+| W3 | 6  | Binary Tree  Level Order Traversal | Medium | 20 mins |
+| W3 | 7 | Clone Graph |  Medium | 25 mins |
+| W3 | 8 |  Evaluate Reverse Polish Notation | Medium | 30 mins |
+| W4 | 1 | Course Schedule | Medium | 30 mins | 
+|W4 |2 |Implement Trie (Prefix Tree) |Medium | 35 mins|
+|W4| 3| Coin Change | Medium| 25 mins |
+|W4 |4 |Product of Array Except Self |Medium| 30 mins|
+|W4| 5 |Min Stack |Medium |20 mins|
+|W4| 6 |Validate Binary Search Tree| Medium| 20 mins|
+|W4 |7 |Number of Islands |Medium |25 mins|
+|W4 |8 |Rotting Oranges | Medium |30 mins|
 
 
 
